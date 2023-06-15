@@ -309,7 +309,7 @@
       "key": "腾腾",
       "name": "🐧腾腾┃解析",
       "type": 3,
-      "api": "./white/drpy.min.js",
+      "api": "./drpy.min.js",
       "ext": "./tengxun.js",
       "searchable": 0,
       "quickSearch": 0,
