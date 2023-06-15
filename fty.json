@@ -310,7 +310,7 @@
       "name": "🐧腾腾┃解析",
       "type": 3,
       "api": "./white/drpy.min.js",
-      "ext": "./white/tengxun.js",
+      "ext": "./tengxun.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
