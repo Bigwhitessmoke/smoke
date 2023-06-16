@@ -607,9 +607,9 @@
       "url": "Web"
     },
     {
-      "name": "全部",
+      "name": "S",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url=",
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
         "flag": [
           "qq",
