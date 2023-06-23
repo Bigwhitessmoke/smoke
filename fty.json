@@ -623,7 +623,7 @@
       "ext": "./white/高中课堂.json"
     }
   ],
-  "parses": [
+ "parses": [
     {
       "name": "聚合1",
       "type": 3,
@@ -635,9 +635,9 @@
       "url": "Web"
     },
     {
-      "name": "全部",
+      "name": "S",
       "type": 1,
-      "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=bhnoprvyzBMNOQTY19&url=",
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -665,9 +665,9 @@
       }
     },
     {
-      "name": "来自",
+      "name": "M",
       "type": 0,
-      "url": "https://yun.ckmov.com/?url=",
+      "url": "https://jx.playerjy.com/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -695,7 +695,7 @@
       }
     },
     {
-      "name": "网络",
+      "name": "O",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -723,9 +723,9 @@
       }
     },
     {
-      "name": "大家",
+      "name": "K",
       "type": 1,
-      "url": "https://api.cygc.xyz/analysis/?url=",
+      "url": "https://jx.nnxv.cn/tv.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -751,9 +751,9 @@
       }
     },
     {
-      "name": "随便",
+      "name": "E",
       "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url=",
+      "url": "https://jx.dj6u.com/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -781,14 +781,14 @@
       }
     },
     {
-      "name": "拿去用",
+      "name": "R",
       "type": 1,
-      "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
+      "url": "https://api.okjx.cc:3389/jx.php?url="
     },
     {
-      "name": "坏了",
+      "name": "1",
       "type": 0,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "url": "https://okjx.cc/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -816,9 +816,9 @@
       }
     },
     {
-      "name": "我再",
+      "name": "2",
       "type": 0,
-      "url": "https://jxdp.codermart.net/?url=",
+      "url": "https://jx.yangtu.top/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -846,9 +846,9 @@
       }
     },
     {
-      "name": "去找来",
+      "name": "3",
       "type": 1,
-      "url": "https://b.umkan.cc/API.php?url=",
+      "url": "https://jx.aidouer.net/?url=",
       "ext": {
         "flag": [
           "qq",
