@@ -304,6 +304,16 @@
       "filterable": 1,
       "changeable": 0
     },
+     {
+      "key": "Qtv",
+      "name": "🐧腾腾┃新",
+      "type": 3,
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
    {
       "key": "腾腾",
       "name": "🐧腾腾┃解析",
