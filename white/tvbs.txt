@@ -1,5 +1,4 @@
 ﻿﻿﻿﻿﻿﻿﻿﻿🇨🇳央视频道,#genre#
-
 CCTV1,http://hz752.love:63/live_a00p/astv.php?id=cctv1hd
 CCTV1,http://39.134.136.151:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
 CCTV1,http://hz752.love:63/live_a00p/bst.php?id=cctv1
@@ -850,9 +849,6 @@ GRTN健康,http://hz752.love:63/live_a00p/gdtv.php?id=gdjk
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://lu1.cc/itv/php/gudou.php?id=hy2
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-汕头新闻综合,http://211.97.63.3:801/hls/81/index.m3u8
-汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
-汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
 汕头综合,http://hz752.love:63/live_a00p/tide.php?id=stxwzh
 汕头综合,http://lu1.cc/itv/php/gudou.php?id=st1
 汕头生活,http://lu1.cc/itv/php/gudou.php?id=st2
